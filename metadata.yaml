@@ -1,0 +1,39 @@
+_repo: The-Life-and-Adventures-of-Robinson-Crusoe-of-York-Mariner-Volume-1Written-By-Himself-in-Two-__11239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Atlantic Ocean -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- GITenberg
+title: 'The Life and Adventures of Robinson Crusoe of York, Mariner, Volume 1
+
+  With an Account of His Travels Round Three Parts of the Globe,
+
+  Written By Himself, in Two Volumes'
+url: http://www.gutenberg.org/ebooks/11239
